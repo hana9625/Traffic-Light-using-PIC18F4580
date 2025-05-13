@@ -1,6 +1,6 @@
 /*
  * File:   traffic light.c
- * Author: jisjo
+ * Author: hana
  *
  * Created on 1 December, 2024, 8:45 AM
  */
